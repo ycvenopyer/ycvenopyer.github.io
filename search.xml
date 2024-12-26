@@ -8,9 +8,21 @@
       <link href="/2024/12/26/compiler-review/"/>
       <url>/2024/12/26/compiler-review/</url>
       
-        <content type="html"><![CDATA[<p><img src="/source/img/image-20241226164839433.png" alt="image-20241226164839433"></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/source%5Cimg%5Cimage-20241226164839433.png" alt="image-20241226164839433.png"></p>]]></content>
       
       
+      <categories>
+          
+          <category> Compiler </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Compiler Learning </tag>
+            
+        </tags>
       
     </entry>
     
