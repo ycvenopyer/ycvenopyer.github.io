@@ -6,7 +6,7 @@
   <link href="http://ycvenopyer.github.io/atom.xml" rel="self"/>
   
   <link href="http://ycvenopyer.github.io/"/>
-  <updated>2024-12-25T02:51:57.033Z</updated>
+  <updated>2024-12-26T08:50:51.719Z</updated>
   <id>http://ycvenopyer.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>compiler-review</title>
+    <link href="http://ycvenopyer.github.io/2024/12/26/compiler-review/"/>
+    <id>http://ycvenopyer.github.io/2024/12/26/compiler-review/</id>
+    <published>2024-12-26T08:46:04.000Z</published>
+    <updated>2024-12-26T08:50:51.719Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/source/img/image-20241226164839433.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2024Fall Software Testing Review</title>
