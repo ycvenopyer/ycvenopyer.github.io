@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ycvenopyer&#39;s Blogs</title>
+  
+  <subtitle>你是前世未止的心跳</subtitle>
+  <link href="http://ycvenopyer.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://ycvenopyer.github.io/"/>
+  <updated>2024-12-25T02:51:57.033Z</updated>
+  <id>http://ycvenopyer.github.io/</id>
+  
+  <author>
+    <name>ycvenopyer</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024Fall Software Testing Review</title>
+    <link href="http://ycvenopyer.github.io/2024/12/25/software-testing-review/"/>
+    <id>http://ycvenopyer.github.io/2024/12/25/software-testing-review/</id>
+    <published>2024-12-25T02:43:34.140Z</published>
+    <updated>2024-12-25T02:51:57.033Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-简答题（20分，每题1分）&quot;&gt;&lt;a href=&quot;#1-简答题（20分，每题1分）&quot; class=&quot;headerlink&quot; title=&quot;1 简答题（20分，每题1分）&quot;&gt;&lt;/a&gt;1 简答题（20分，每题1分）&lt;/h2&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Software Testing" scheme="http://ycvenopyer.github.io/categories/Software-Testing/"/>
+    
+    
+    <category term="Software Testing" scheme="http://ycvenopyer.github.io/tags/Software-Testing/"/>
+    
+    <category term="Automated Testing" scheme="http://ycvenopyer.github.io/tags/Automated-Testing/"/>
+    
+  </entry>
+  
+</feed>
