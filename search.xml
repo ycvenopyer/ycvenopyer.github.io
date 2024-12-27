@@ -8,7 +8,7 @@
       <link href="/2024/12/27/foundations-of-data-science-review/"/>
       <url>/2024/12/27/foundations-of-data-science-review/</url>
       
-        <content type="html"><![CDATA[<p>本篇是我的2024Fall数据科学基础复习笔记（Review Notes of Foudations of Data Science）这门课由尹一通（尹神）和刘明谋老师开设，课程主页:<a href="https://tcs.nju.edu.cn/wiki/index.php?title=%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80_(Fall_2024)">2024 Fall 数据科学基础 NJU TCS GROUP</a></p><p>笔记如下:<div class="row">    <embed src="./foundations-of-data-science-review.pdf" width="100%" height="550" type="application/pdf"></div><br><a href="/source/file/foundations-of-data-science-review.pdf" download="foundations-of-data-science-review.pdf">下载PDF</a><br>如有疏漏和错误欢迎指正。最后的期末考试以基本概念为主（统计部分不考），平时作业难度很大，有些是MU,GS,BHK（教材和参考书）的课后习题。</p><p>课程感受:尹神讲了前几次课给大家开了头，后续都是刘老师讲授的，这门课英文课件英文作业，个人认为对于概念理解应该会更好，但是需要投入较长时间。课程包括了经典概率论的所有内容，并且充满了TCS的味道，随机图和随机游走随机可见，随机过程的部分难度较大，马尔科夫链和贝叶斯估计以及假设检验那里和机器学习相关性非常大。</p>]]></content>
+        <content type="html"><![CDATA[<p>本篇是我的2024Fall数据科学基础复习笔记（Review Notes of Foudations of Data Science）这门课由尹一通（尹神）和刘明谋老师开设，课程主页:<a href="https://tcs.nju.edu.cn/wiki/index.php?title=%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80_(Fall_2024)">2024 Fall 数据科学基础 NJU TCS GROUP</a></p><p>笔记如下:<a href="/file/foundations-of-data-science-review.pdf" download="foundations-of-data-science-review.pdf">notes</a><br>如有疏漏和错误欢迎指正。最后的期末考试以基本概念为主（统计部分不考），平时作业难度很大，有些是MU,GS,BHK（教材和参考书）的课后习题。</p><p>课程感受:尹神讲了前几次课给大家开了头，后续都是刘老师讲授的，这门课英文课件英文作业，个人认为对于概念理解应该会更好，但是需要投入较长时间。课程包括了经典概率论的所有内容，并且充满了TCS的味道，随机图和随机游走随机可见，随机过程的部分难度较大，马尔科夫链和贝叶斯估计以及假设检验那里和机器学习相关性非常大。</p>]]></content>
       
       
       <categories>
