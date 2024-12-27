@@ -6,7 +6,7 @@
   <link href="http://ycvenopyer.github.io/atom.xml" rel="self"/>
   
   <link href="http://ycvenopyer.github.io/"/>
-  <updated>2024-12-27T05:16:28.990Z</updated>
+  <updated>2024-12-27T10:53:58.612Z</updated>
   <id>http://ycvenopyer.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>foundations-of-data-science-review</title>
+    <title>2024 Fall Foundations of Data Science Review</title>
     <link href="http://ycvenopyer.github.io/2024/12/27/foundations-of-data-science-review/"/>
     <id>http://ycvenopyer.github.io/2024/12/27/foundations-of-data-science-review/</id>
     <published>2024-12-27T04:37:20.000Z</published>
-    <updated>2024-12-27T05:16:28.990Z</updated>
+    <updated>2024-12-27T10:53:58.612Z</updated>
     
     
       
@@ -46,19 +46,19 @@
   </entry>
   
   <entry>
-    <title>compiler-review</title>
+    <title>2024 Fall Compiler Review</title>
     <link href="http://ycvenopyer.github.io/2024/12/26/compiler-review/"/>
     <id>http://ycvenopyer.github.io/2024/12/26/compiler-review/</id>
     <published>2024-12-26T08:46:04.000Z</published>
-    <updated>2024-12-26T11:39:31.508Z</updated>
+    <updated>2024-12-27T10:54:44.212Z</updated>
     
     
     
     
-    <category term="Compiler" scheme="http://ycvenopyer.github.io/categories/Compiler/"/>
+    <category term="TCS" scheme="http://ycvenopyer.github.io/categories/TCS/"/>
     
     
-    <category term="Compiler Learning" scheme="http://ycvenopyer.github.io/tags/Compiler-Learning/"/>
+    <category term="Compiler" scheme="http://ycvenopyer.github.io/tags/Compiler/"/>
     
   </entry>
   
