@@ -6,7 +6,7 @@
   <link href="http://ycvenopyer.github.io/atom.xml" rel="self"/>
   
   <link href="http://ycvenopyer.github.io/"/>
-  <updated>2024-12-26T11:39:31.508Z</updated>
+  <updated>2024-12-27T04:45:24.806Z</updated>
   <id>http://ycvenopyer.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>foundations-of-data-science-review</title>
+    <link href="http://ycvenopyer.github.io/2024/12/27/foundations-of-data-science-review/"/>
+    <id>http://ycvenopyer.github.io/2024/12/27/foundations-of-data-science-review/</id>
+    <published>2024-12-27T04:37:20.000Z</published>
+    <updated>2024-12-27T04:45:24.806Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本篇是我的2024Fall数据科学基础复习笔记（Review Notes of Foudations of Data Science）这门课由尹一通（尹神）和刘明谋老师开设，课程主页:&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="TCS" scheme="http://ycvenopyer.github.io/categories/TCS/"/>
+    
+    
+    <category term="Probability" scheme="http://ycvenopyer.github.io/tags/Probability/"/>
+    
+    <category term="Random Process" scheme="http://ycvenopyer.github.io/tags/Random-Process/"/>
+    
+    <category term="Statistics" scheme="http://ycvenopyer.github.io/tags/Statistics/"/>
+    
+  </entry>
   
   <entry>
     <title>compiler-review</title>
