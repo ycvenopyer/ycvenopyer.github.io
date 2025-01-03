@@ -6,7 +6,7 @@
   <link href="http://ycvenopyer.github.io/atom.xml" rel="self"/>
   
   <link href="http://ycvenopyer.github.io/"/>
-  <updated>2025-01-03T04:29:18.416Z</updated>
+  <updated>2025-01-03T14:53:40.726Z</updated>
   <id>http://ycvenopyer.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024 Fall 需求与商业模式创新复习</title>
+    <link href="http://ycvenopyer.github.io/2025/01/03/command-and-innovation-of-commercial-modes-review/"/>
+    <id>http://ycvenopyer.github.io/2025/01/03/command-and-innovation-of-commercial-modes-review/</id>
+    <published>2025-01-03T14:47:35.000Z</published>
+    <updated>2025-01-03T14:53:40.726Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Part-1-期末考核要求&quot;&gt;&lt;a href=&quot;#Part-1-期末考核要求&quot; class=&quot;headerlink&quot; title=&quot;Part 1 期末考核要求&quot;&gt;&lt;/a&gt;Part 1 期末考核要求&lt;/h2&gt;&lt;h3 id=&quot;1-商业模式部分（60分）&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Software Engineering" scheme="http://ycvenopyer.github.io/categories/Software-Engineering/"/>
+    
+    
+    <category term="Command and Innovation of Commercial Modes" scheme="http://ycvenopyer.github.io/tags/Command-and-Innovation-of-Commercial-Modes/"/>
+    
+  </entry>
   
   <entry>
     <title>2024 Fall Machine Learning Review</title>
@@ -155,7 +180,7 @@
     <link href="http://ycvenopyer.github.io/2024/12/25/software-testing-review/"/>
     <id>http://ycvenopyer.github.io/2024/12/25/software-testing-review/</id>
     <published>2024-12-25T02:43:34.140Z</published>
-    <updated>2024-12-29T11:29:54.901Z</updated>
+    <updated>2025-01-03T14:49:27.567Z</updated>
     
     
       
@@ -169,7 +194,7 @@
     
     
     
-    <category term="Software Testing" scheme="http://ycvenopyer.github.io/categories/Software-Testing/"/>
+    <category term="Software Engineering" scheme="http://ycvenopyer.github.io/categories/Software-Engineering/"/>
     
     
     <category term="Software Testing" scheme="http://ycvenopyer.github.io/tags/Software-Testing/"/>
