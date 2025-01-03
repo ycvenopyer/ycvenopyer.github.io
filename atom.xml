@@ -6,7 +6,7 @@
   <link href="http://ycvenopyer.github.io/atom.xml" rel="self"/>
   
   <link href="http://ycvenopyer.github.io/"/>
-  <updated>2025-01-03T04:21:40.052Z</updated>
+  <updated>2025-01-03T04:23:42.423Z</updated>
   <id>http://ycvenopyer.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://ycvenopyer.github.io/2025/01/03/machine-learning-review/"/>
     <id>http://ycvenopyer.github.io/2025/01/03/machine-learning-review/</id>
     <published>2025-01-03T03:56:07.000Z</published>
-    <updated>2025-01-03T04:21:40.052Z</updated>
+    <updated>2025-01-03T04:23:42.423Z</updated>
     
     
       
@@ -34,6 +34,10 @@
     
     
     
+    <category term="Artificial Intelligence" scheme="http://ycvenopyer.github.io/categories/Artificial-Intelligence/"/>
+    
+    
+    <category term="Machine Learning" scheme="http://ycvenopyer.github.io/tags/Machine-Learning/"/>
     
   </entry>
   
