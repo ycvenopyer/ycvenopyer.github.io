@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chen Yang（杨辰）"
+title                    : "Chen Yang"
 description              : "Master Student, Nanjing University. "
 repository               : "https://github.com/ycvenopyer"
 google_scholar_stats_use_cdn : true
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chen Yang"
+  name             : "Chen Yang（杨辰）"
   avatar           : "images/yangchen.jpg"
-  bio              : "Diving into LLM"
+  bio              : "Diving into LLM🔥"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "0009-0001-0357-9316"
+  orcid            : "https://orcid.org/0009-0001-0357-9316"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
