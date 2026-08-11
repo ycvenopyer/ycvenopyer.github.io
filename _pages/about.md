@@ -24,7 +24,7 @@ I have a broad interest in NLP and LLM, with a current focus on the diffusion la
 I am currently working on membership inference attacks against diffusion language models, especially masked diffusion language models.
 
 # 📖 Educations
-- *2026.06 - Present*, M.Sc. Student, School of Computer Science, Nanjing University, Nanjing, China.
+- *2026.09 - Present*, M.Sc. Student, School of Computer Science, Nanjing University, Nanjing, China.
 - *2022.09 - 2026.06*, B.Sc. Student, School of Intelligent Software and Engineering, Nanjing University, Suzhou, China. 
   
 # 💻 Internships
