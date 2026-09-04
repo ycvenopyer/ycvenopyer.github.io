@@ -40,5 +40,5 @@ I am currently working on membership inference attacks against diffusion languag
 - *2024*, Honorable Mention, Mathematical Contest in Modeling (MCM).
   
 # 📞 Correspondence
-- Email: 221900328@smail.nju.edu.cn, ycvenopyer@gmail.com
-- Address: Computer Science Building, Xianlin Campus of Nanjing University, 210023
+- Email: 522026330112@smail.nju.edu.cn, ycvenopyer@gmail.com
+- Address: Computer Science Building 612, Xianlin Campus of Nanjing University
