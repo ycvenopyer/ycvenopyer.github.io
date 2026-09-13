@@ -19,9 +19,9 @@ redirect_from:
 
 I am a M.Sc. student of [School of Computer Science](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://www.nju.edu.cn/) and a member of [ISET Group](https://isetnju.github.io/index.html), led by Prof. [Qing Gu](https://isetnju.github.io/guq/index.html).Before my M.Sc. career, I was an undergraduate student of [School of Intelligent Software and Engineering](https://ise.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/).
 
-I have a broad interest in NLP and LLM, with a current focus on the diffusion language models, effcient LLMs(MoE structure), and LLM safety. In addition, I am keen on LLM distributed training and inference, and AI Agents.
+I have a broad interest in NLP and LLM, including LLM intervention and interpretability, representation learning and information retrieval, diffusion language models, and efficient LLMs(MoE models). In addition, I am keen on LLM distributed training and inference, and AI Agents.
 
-I once worked on membership inference attacks against diffusion language models, especially masked diffusion language models. In the future I will focus on Agent safety.
+I once worked on membership inference attacks against diffusion language models, especially masked diffusion language models. 
 
 Now I am working on extracting sentence embeddings from MoE models and accelerating their decoding process.
 
