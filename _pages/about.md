@@ -21,9 +21,9 @@ I am a M.Sc. student of [School of Computer Science](https://cs.nju.edu.cn/main.
 
 I have a broad interest in NLP and LLM, including LLM intervention and interpretability, representation learning and information retrieval, diffusion language models, and efficient LLMs(MoE models). In addition, I am keen on LLM distributed training and inference, and AI Agents.
 
-I once worked on membership inference attacks against diffusion language models, especially masked diffusion language models. 
+I once worked on membership inference attacks against masked diffusion language models. 
 
-Now I am working on extracting sentence embeddings from MoE models and accelerating their decoding process.
+Now I am working on extracting sentence embeddings from MoE models and accelerating their decoding process, and continual learning (MoE upcycling, model merging).
 
 # 📖 Educations
 - *2026.09 - Present*, M.Sc. Student, School of Computer Science, Nanjing University, Nanjing, China.
